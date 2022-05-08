@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Heart Design Cursor
 
-Clone of cineflix website
+Cursor with heart design
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://heart-cursor-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Heart-Cursor.git
 ```
 
 Install node_module dependencies
